@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hi! I'm Piumal. I'm a passionate developer who loves building impactful applications. Whether it's creating opinion-sharing platforms, exploring game development, or working on file-sharing apps, I strive to deliver efficient and user-friendly solutions.
+Hi! I'm Piumal, a developer with a strong interest in low-level programming, backend development, database design, and security. I enjoy building reliable applications and exploring technology to create secure systems.
 
 ## Technologies & Frameworks
 Here are some of the technologies I frequently work with:
