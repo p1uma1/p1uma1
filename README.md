@@ -12,11 +12,12 @@ Here are some of the technologies I frequently work with:
   - JavaScript, TypeScript
 
 - **Backend Development:**
-  - Express.js
+  - Nodejs with Express.js
   - Spring Boot
 
 - **Databases:**
   - MongoDB
+  - MySQL, Posgresql
 
 - **Languages:**
   - Java
@@ -27,6 +28,7 @@ Here are some of the technologies I frequently work with:
 
 - **Cloud & Services:**
   - Firebase
+  
 
 
 <!---
