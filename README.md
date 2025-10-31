@@ -1,13 +1,9 @@
 # 🚀 Welcome to My GitHub Profile!
 
 ## 👋 About Me
-Hi! I'm **Piumal**, a developer with a strong interest in:
-- 🔧 Low-level programming
-- 🖥️ Backend development
-- 🗄️ Database design
-- 🔒 Security
-
-I enjoy building reliable applications and exploring technology to create secure systems.
+I have strong interests in:
+- Low-level programming
+- Reverse Engineering
 
 ---
 
@@ -15,13 +11,13 @@ I enjoy building reliable applications and exploring technology to create secure
 Here are some of the technologies I frequently work with:
 
 ### 🌐 **Frontend Development:**
-- ⚛️ React.js
-- 🎨 HTML, CSS
-- 📜 JavaScript, TypeScript
+- React.js, Angular.js, Rxjs
+- HTML, CSS
+- JavaScript, TypeScript
 
 ### 🔙 **Backend Development:**
-- 🌲 Node.js with Express.js
-- ☕ Spring Boot
+- Node.js 
+- Spring Boot
 
 ### 💾 **Databases:**
 - 🍃 MongoDB
@@ -34,8 +30,6 @@ Here are some of the technologies I frequently work with:
 - 📜 JavaScript
 - 📘 TypeScript
 
-### ☁️ **Cloud & Services:**
-- 🔥 Firebase
 
 ---
 
