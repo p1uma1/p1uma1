@@ -1,40 +1,36 @@
-# 🚀 Welcome to My GitHub Profile!
+# Hola
 
-## 👋 About Me
+## About Me
 I have strong interests in:
 - Low-level programming
 - Reverse Engineering
-
+- Software Development
 ---
 
 ## 🛠️ Technologies & Frameworks
 Here are some of the technologies I frequently work with:
 
-### 🌐 **Frontend Development:**
+###  **Frontend Development:**
 - React.js, Angular.js, Rxjs
 - HTML, CSS
 - JavaScript, TypeScript
 
-### 🔙 **Backend Development:**
+###  **Backend Development:**
 - Node.js 
 - Spring Boot
 
-### 💾 **Databases:**
+###  **Databases:**
 - 🍃 MongoDB
 - 🐬 MySQL, 🐘 PostgreSQL
 
-### 💻 **Languages:**
-- ☕ Java
-- 🛠️ C++
-- ⚙️ C
-- 📜 JavaScript
-- 📘 TypeScript
+###  **Languages:**
+-  Java
+-  C++
+-  C
+-  JavaScript
+-  TypeScript
 
 
 ---
 
-<!---
-p1uma1/p1uma1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
