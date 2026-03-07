@@ -1,4 +1,4 @@
-# Hi, Welcome
+# Hi
 
 ## About Me
 I have strong interests in:
